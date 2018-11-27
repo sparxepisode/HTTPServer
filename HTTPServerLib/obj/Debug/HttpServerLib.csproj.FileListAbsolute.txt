@@ -1,0 +1,5 @@
+E:\github\HttpServer\HTTPServer\HTTPServerLib\bin\Debug\HttpServerLib.dll
+E:\github\HttpServer\HTTPServer\HTTPServerLib\bin\Debug\HttpServerLib.pdb
+E:\github\HttpServer\HTTPServer\HTTPServerLib\obj\Debug\HttpServerLib.csproj.CoreCompileInputs.cache
+E:\github\HttpServer\HTTPServer\HTTPServerLib\obj\Debug\HttpServerLib.dll
+E:\github\HttpServer\HTTPServer\HTTPServerLib\obj\Debug\HttpServerLib.pdb
